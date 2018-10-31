@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16013" started-at="2018-10-30T14:35:13Z" finished-at="2018-10-30T14:35:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16013" started-at="2018-10-30T14:35:13Z" finished-at="2018-10-30T14:35:29Z">
+      <class name="com.qa.barcode.BarcodeTest">
+        <test-method status="PASS" signature="barCodeTest()[pri:0, instance:com.qa.barcode.BarcodeTest@5e3a8624]" name="barCodeTest" duration-ms="15955" started-at="2018-10-30T14:35:13Z" finished-at="2018-10-30T14:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- barCodeTest -->
+      </class> <!-- com.qa.barcode.BarcodeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
